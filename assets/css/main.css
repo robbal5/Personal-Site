@@ -3037,3 +3037,8 @@ input, select, textarea {
 	.portfolio-technologies{
 		height: 35px;
 	}
+
+	.intro-text {
+		width: 80%;
+		margin: auto;
+	}
